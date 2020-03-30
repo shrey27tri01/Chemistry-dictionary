@@ -1,0 +1,9 @@
+DIHYDROGEN
+ Dihydrogen on the
+ industrial scale is prepared by the water-gas shift reaction from petrochemicals. It is obtained as a byproduct by the electrolysis of brine.The H–H bond dissociation enthalpy of dihydrogen (435.88 kJ mol–1) is the highest for a
+ single bond between two atoms of any elements. This property is made use of in the atomic hydrogen torch which generates a temperature of ~4000K and is ideal for welding of high melting metals. Though
+ dihydrogen is rather inactive at room temperature because of very high negative dissociation enthalpy, it combines with almost all the elements under appropriate conditions to form hydrides. All the type of hydrides can be 
+classified into three categories: ionic or saline hydrides, covalent or molecular hydrides and metallic or non-stoichiometric hydrides. Alkali metal hydrides are good reagents for preparing other hydride compounds. Molecular
+ hydrides (e.g., B2H6, CH4, NH3, H2O) are of great importance in day-to-day life. Metallic hydrides are useful for ultrapurification of dihydrogen and as dihydrogen storage media. Among the other chemical reactions of 
+dihydrogen, reducing reactions leading to the formation hydrogen halides, water, ammonia, methanol, vanaspati ghee, etc. are of great importance. In metallurgical process, it is used to reduce metal oxides. In space
+ programmes, it is used as a rocket fuel. In fact, it has promising potential for use as a non-polluting fuel of the near future (Hydrogen Economy).

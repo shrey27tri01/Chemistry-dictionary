@@ -1,0 +1,5 @@
+ACIDS AD BASES
+According to Arrhenius, acids give hydrogen ions while bases produce hydroxyl ions in their aqueous solutions. Brönsted-Lowry on the other hand, defined an acid as a proton donor and a base 
+as a proton acceptor. When a Brönsted-Lowry acid reacts with a base, it produces its conjugate base and a conjugate acid corresponding to the base with which it reacts. Thus a conjugate pair of acid-base differs only by one
+ proton. Lewis further generalised the definition of an acid as an electron pair acceptor and a base as an electron pair donor. The expressions for ionization (equilibrium) constants of weak acids (Ka) and weak bases (Kb) are 
+developed using Arrhenius definition.

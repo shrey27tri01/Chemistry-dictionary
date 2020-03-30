@@ -1,0 +1,12 @@
+                                                                ATOMIC NUMBER
+Atomic number can simply be defined as the number of protons present in an atom.The concept of atomic number can be used to identify the elements and their properties in the periodic table.
+
+For example, the atomic number of Hydrogen is 1 , meaning that only 1 proton is present in the hydrogen atom.
+Similarly, the atomic number of Chromium is 24 , meaning that the Chromium atom has 24 protons in its atom.
+                                                            ATOMIC MASS
+
+Atomic mass is defined as a number that expresses as to how many times an atom of the element is heavier than 1/12th of the mass of carbon atom(Carbon-12).Therefore,
+
+              Atomic mass  =  (mass of an atom)/((1/12)×(mass of a carbon atom))
+
+ 

@@ -1,0 +1,5 @@
+STRUCTURE AND NOMENCLATURE OF ORGANIC COMPOUNDS
+ The three dimensional  representation of organic compounds on paper can be drawn by wedge and dash 
+formula. Organic compounds can be classified on the basis of their structure or the functional groups they contain. A functional group is an atom or group of atoms bonded together in a unique fashion and which determines 
+the physical and  chemical properties of the compounds. The naming of the organic compounds is carried out by following a set of rules laid down by the International Union of Pure and Applied Chemistry (IUPAC). In IUPAC
+ nomenclature, the names are correlated with the structure in such a way that the reader can deduce the structure from the name.

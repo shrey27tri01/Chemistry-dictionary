@@ -1,0 +1,10 @@
+REDOX REACTIONS - INTRODUCTION
+An oxidation-reduction (redox) reaction is a type of chemical reaction that involves a transfer of electrons between two species. An oxidation-reduction reaction is any chemical reaction in which the oxidation number of a molecule, atom, or ion changes by gaining or losing an electron. 
+Redox reactions are common and vital to some of the basic functions of life, including photosynthesis, respiration, combustion, and corrosion or rusting.
+Redox reactions are comprised of two parts, a reduced half and an oxidized half, that always occur together. The reduced half gains electrons and the oxidation number decreases, while the oxidized half loses electrons and the oxidation number increases. Simple ways to remember this include the mnemonic devices OIL RIG, meaning "oxidation is loss" and "reduction is gain," and LEO says GER, meaning "loss of e- = oxidation" and "gain of e- = reduced." There is no net change in the number of electrons in a redox reaction. Those given off in the oxidation half reaction are taken up by another species in the reduction half reaction.
+
+The two species that exchange electrons in a redox reaction are given special names. The ion or molecule that accepts electrons is called the 
+oxidizing agent; by accepting electrons it causes the oxidation of another species. Conversely, the species that d
+onates electrons is called the reducing agent; when the reaction occurs, it reduces the other species. In other words, what is oxidized is the reducing agent a
+nd what is reduced is the oxidizing agent. (Note: 
+the oxidizing and reducing agents can be the same element or compound, as in disproportionation reactions).

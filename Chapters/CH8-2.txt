@@ -1,0 +1,5 @@
+REDOX REACTIONS - PROPERTIES
+Redox reactions form an important class of reactions in which oxidation and reduction occur simultaneously. Three tier conceptualisation viz, classical, electronic and oxidation number, which is usually available in the texts, has
+ been presented in detail. Oxidation, reduction, oxidising agent (oxidant) and reducing agent (reductant) have been viewed according to each conceptualisation. Oxidation numbers are assigned in accordance with a consistent
+ set of rules. Oxidation number and ion-electron method both are useful means in writing equations for the redox reactions. Redox reactions are classified into four categories: combination, decomposition displacement and 
+disproportionation reactions. The concept of redox couple and electrode processes is introduced here. The redox reactions find wide applications in the study of electrode processes and cells.

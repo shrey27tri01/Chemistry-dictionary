@@ -1,0 +1,5 @@
+EQUILIBRIUM-INTRODUCTION
+
+When the number of molecules leaving the liquid to vapour equals the number of molecules returning to the liquid from vapour, equilibrium is said to be attained and is dynamic in nature. Equilibrium can be established for both
+ physical and chemical processes and at this stage rate of forward and reverse reactions are equal. Equilibrium constant, Kc is expressed as the concentration of products divided by reactants, each term raised to the
+ stoichiometric coefficient. For reaction, a A + b B gives c C +d D Kc = [C]c[D]d/[A]a[B]b

@@ -1,0 +1,7 @@
+ORGANIC REACTION MECHANISMS
+Organic reaction mechanism concepts are based on the structure of the substrate molecule,
+ fission of a covalent bond, the attacking reagents, the electron displacement effects and the conditions of the reaction. These organic reactions involve breaking and making of covalent bonds. A covalent bond may be cleaved 
+in heterolytic or homolytic fashion. A heterolytic cleavage yields carbocations or carbanions, while a homolytic cleavage gives free radicals as reactive intermediate. Reactions proceeding through heterolytic cleavage involve 
+the complimentary pairs of reactive species. These are electron pair donor known as nucleophile and an electron pair acceptor known as electrophile. The inductive, resonance, electromeric and hyperconjugation effects may
+ help in the polarisation of a bond making certain carbon atom or other atom positions as places of low or high electron densities. Organic reactions can be broadly classified into following types; substitution, addition,
+ elimination and rearrangement reactions.

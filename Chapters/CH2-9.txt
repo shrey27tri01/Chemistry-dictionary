@@ -1,0 +1,27 @@
+                                                          CHARGE TO MASS RATIO OF ELEMENT
+
+In 1897, British physicist J.J. Thomson
+measur
+ed the ratio of electrical char
+ge (
+e
+) to
+the mass of electr
+on (
+m
+e 
+) by using cathode
+ray tube and applying electrical and magnetic
+field perpendicular to each other as well as to
+the path of electr
+ons. Thomson
+argued that the amount of deviation of the
+particles from their path in the pr
+esence of
+electrical or magnetic field depends upon:
+the magnitude of the negative char
+ge on
+the particle,the mas
+s of the particle , and the str
+ength of the electrical or magnetic
+field .

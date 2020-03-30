@@ -1,0 +1,17 @@
+                                                                     PERCENTAGE COMPOSITION
+
+Percentage Composition is the composition of various elements in a compound containing two or more elements.
+
+Let us understand it by taking the example
+of water . Since water contains hydrogenand oxygen, the percentage composition of both
+these elements can be calculated as follows :
+
+Mass % of an element = mass of that element in the compound × 100 molar mass of the compound
+Molar mass of water
+= 18.02 g
+Mass % of hydrogen
+= 2×1.008×100/18.02
+= 11.18
+Mass % of oxygen
+= 16.00×100 /18.02
+= 88.79

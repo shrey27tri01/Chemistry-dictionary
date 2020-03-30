@@ -1,0 +1,7 @@
+IONIZATION
+ The degree of ionization and its dependence on concentration and common ion are discussed. The pH scale (pH = -log[H+]) for the hydrogen ion concentration (activity) has been 
+introduced and extended to other quantities (pOH = – log[OH–]) ; pKa = –log[Ka] ; pKb = –log[Kb]; and pKw = –log[Kw] etc.). The ionization of water has been considered and we note that the equation: pH + pOH = pKw is always
+ satisfied. The salts of strong acid and weak base, weak acid and strong base, and weak acid and weak base undergo hydrolysis in aqueous solution.The definition of buffer solutions,  and their importance are discussed briefly. 
+The solubility equilibrium of sparingly soluble salts is discussed and the equilibrium constant is introduced as solubility product constant (Ksp). Its relationship with solubility of the salt is established. The conditions of 
+precipitation of the salt from their solutions or their dissolution in water are worked out. The role of common ion and the solubility of sparingly soluble salts is also discussed.
+

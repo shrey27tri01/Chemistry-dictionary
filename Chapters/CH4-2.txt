@@ -1,0 +1,7 @@
+VSEPR THEORY 
+ Important parameters, associated with chemical bonds, like: bond length, bond angle, bond enthalpy, bond order and bond polarity have significant effect on the 
+properties of compounds. A number of molecules and polyatomic ions cannot be described accurately by a single Lewis structure and a number of descriptions (representations) based on the same skeletal structure are written
+ and these taken together represent the molecule or ion. This is a very important and extremely useful concept called resonance. The contributing structures or canonical forms taken together constitute the resonance hybrid 
+which represents the molecule or ion.The VSEPR model used for predicting the geometrical shapes of molecules is based on the assumption that electron pairs repel each other and, therefore, tend to remain as far apart as
+ possible. According to this model, molecular geometry is determined by repulsions between lone pairs and lone pairs ; lone pairs and bonding pairs and bonding pairs and bonding pairs. The order of these repulsions 
+being : lp-lp > lp-bp > bp-bp 

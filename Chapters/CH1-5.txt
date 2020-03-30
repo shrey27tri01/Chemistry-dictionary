@@ -1,0 +1,13 @@
+                                            ATOMIC AND MOLECULAR MASSES
+
+1. ATOMIC MASS
+
+Atomic mass is defined as a number that expresses as to how many times an atom of the element is 
+heavier than 1/12th of the mass of carbon atom(Carbon-12).Therefore,one atomic mass unit is defined as the mass exactly equal to 1/12th of the mass of an atom of 
+     carbon(Carbon-12).
+           
+
+3. Molecular Mass
+
+Molecular mass is the sum of atomic masses
+of the elements present in a molecule.

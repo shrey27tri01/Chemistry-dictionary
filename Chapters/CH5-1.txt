@@ -1,0 +1,7 @@
+STATES OF MATTER
+
+Intermolecular forces operate between the particles of matter. These forces differ from pure electrostatic forces that exist between two oppositely charged ions. Also, these do not include forces that hold atoms of a covalent 
+molecule together through covalent bond. Competition between thermal energy and intermolecular interactions determines the state of matter. “Bulk” properties of matter such as behaviour of gases, characteristics of solids 
+and liquids and change of state depend upon energy of constituent particles and the type of interaction between them. Chemical properties of a substance do not change with change of state, but the reactivity depends upon
+ the physical state. Forces of interaction between gas molecules are negligible and are almost independent of their chemical nature. Interdependence of some observable properties namely pressure, volume, temperature and
+ mass leads to different gas laws obtained from experimental studies on gases. 

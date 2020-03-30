@@ -1,0 +1,6 @@
+                                                                ATOMIC ORBITALS
+
+The wave function is a mathematical function, value of which depends upon the coordinates of the 
+electron in the atom and does not carry any physical meaning.Such wave function of hydrogen or 
+hydrogen like species with one electron are called ATOMIC ORBTALS.
+

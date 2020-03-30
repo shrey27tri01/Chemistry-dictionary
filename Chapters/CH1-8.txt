@@ -1,0 +1,10 @@
+                                                                   MOLE CONCEPT
+
+A word mole(means heap or pile) was introduced Avagadro and is defined as the amount of substance 
+that contans as many entites(atoms molecules or other particles) as there are atoms in exactly 0.012kg
+(or 12g) of the carbon-12 isotope.
+
+By using mass spectometer it has been found that ther are 6.023×10^23 atoms present in 12g of C-12 isotope. 
+ MOLAR MASS
+The mass of one mole of a substance in grams is called its molar mass.
+The molar mass in grams is numerically equal to atomic/molecular/ formula mass in u.

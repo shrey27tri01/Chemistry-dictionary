@@ -1,0 +1,7 @@
+THE BORON FAMILY
+Boron is a typical non-metal and the other members are metals. The availability of 3 valence electrons (2s22p1) for covalent bond formation using four
+orbitals (2s, 2px, 2py and 2pz) leads to the so called electron deficiency in boron compounds. This deficiency makes them good electron acceptor and thus boron compounds behave as Lewis acids. Boron forms covalent
+ molecular compounds with dihydrogen as boranes, the simplest of which is diborane, B2H6. Diborane contains two bridging hydrogen atoms between two boron atoms; these bridge bonds are considered to be three-centre
+ two-electron bonds. The important compounds of boron with dioxygen are boric acid and borax. Boric acid, B(OH)3 is a weak monobasic acid; it acts as a Lewis acid by accepting electrons from hydroxyl ion. Borax is a white 
+crystalline solid of formula Na2[B4O5(OH)4]·8H2O. The borax bead test gives characteristic colours of transition metals. Aluminium exhibits +3 oxidation state. With heavier elements +1 oxidation state gets progressively 
+stabilised on going down the group. This is a consequence of the so called inert pair effect.

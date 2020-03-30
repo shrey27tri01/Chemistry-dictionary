@@ -1,0 +1,4 @@
+PROPERTIES OF MATTER
+ Equation of state for ideal gas is pV=nRT, where R is a gas constant and its value depends upon units chosen for pressure, volume and temperature. At high pressure and low temperature
+ intermolecular forces start operating strongly between the molecules of gases because they come close to each other. Under suitable temperature and pressure conditions gases can be liquified. Liquids may be considered as 
+continuation of gas phase into a region of small volume and very strong molecular attractions. Some properties of liquids e.g., surface tension and viscosity are due to strong intermolecular attractive forces.

@@ -1,0 +1,8 @@
+PURIFICATION OF ORGANIC COMPOUNDS
+ Purification, qualitative and quantitative analysis of organic compounds are carried out for determining their structures. The methods of purification namely : sublimation, distillation
+ and differential extraction are based on the difference in one or more physical properties. Chromatography is a useful technique of separation, identification and purification of compounds. It is classified into two 
+categories : adsorption and partition chromatography. Adsorption chromatography is based on differential adsorption of various components of a mixture on an adsorbent. Partition chromatography involves continuous
+ partitioning of the components of a mixture between stationary and mobile phases. After getting the compound in a pure form, its qualitative analysis is carried out for detection of elements present in it. Nitrogen, sulphur, 
+halogens and phosphorus are detected by Lassaigne’s test. Carbon and hydrogen are estimated by determining the amounts of carbon dioxide and water produced. Nitrogen is estimated by Dumas or Kjeldahl’s method and 
+halogens by Carius method. Sulphur and phosphorus are estimated by oxidising them to sulphuric and phosphoric acids respectively. The percentage of oxygen is usually determined by difference between the total percentage
+ (100) and the sum of percentages of all other elements present.

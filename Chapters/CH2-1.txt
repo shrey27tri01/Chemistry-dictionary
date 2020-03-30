@@ -1,0 +1,11 @@
+                                                             DISCOVEREY OF PROTON AND ELECTRON
+
+Electrical discharge carried out in themodified cathode ray tube led to the discoveryof particles carrying positive charge, also known as canal rays.
+The characteristics ofthese positively charged particles are listed below :
+(i) Unlike cathode rays, the positively charged particles depend upon the nature of gas present in the cathode ray tube. These are simply the positively charged gaseous ions.
+
+(ii) The charge to mass ratio of the particles is found to depend on the gas from which these originate.
+
+(iii) Some of the positively charged particles carry a multiple of the fundamental unit of electrical charge.
+
+(iv) The behaviour of these particles in the magnetic or electrical field is opposite to that observed for electron or cathode rays.The smallest and lightest positive ion was obtained from hydrogen and was called proton.
